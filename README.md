@@ -34,7 +34,9 @@
 
   <h2>Licença</h2>
 
-  <p>Este repositório está licenciado sob a licença MIT. Leia o arquivo <code>LICENSE</code> para obter mais informações.</p>
+    Este repositório está licenciado sob a licença MIT. Clique no botão abaixo para obter mais informações:
+ <a href="https://github.com/MateusMurinelly/mch_lrng/blob/main/LICENSE" target="_blank"><button type="button">Licença</button></a>
+
 
 </body>
 
