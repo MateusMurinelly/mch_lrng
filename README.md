@@ -30,7 +30,7 @@
 
   <h2>Contribuindo</h2>
 
-  <p>Se você quiser contribuir para este repositório, sinta-se à vontade para abrir um pull request. Seu contributo é bem-vindo!</p>
+  <p>Se gostou e quiser colaborar com meu conhecimento, sinta-se à vontade para abrir um pull request. Seu contributo é bem-vindo!</p>
 
   <h2>Licença</h2>
 
