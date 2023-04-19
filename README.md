@@ -26,7 +26,7 @@
     <li><strong>preprocessing</strong>: exemplos de pré-processamento de dados usando funções como escalonamento de recursos, codificação one-hot e normalização.</li>
   </ul>
 
-  <p>Sinta-se à vontade para explorar cada pasta e executar os exemplos de código. Os arquivos contêm instruções detalhadas sobre como executar cada exemplo.</p>
+  <p>Sinta-se à vontade para explorar cada pasta e executar os exemplos de código.</p>
 
   <h2>Contribuindo</h2>
 
