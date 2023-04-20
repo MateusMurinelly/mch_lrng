@@ -26,7 +26,7 @@
     <li><strong>Regressão</strong>:Prevendo um atributo de valor contínuo associado a um objeto.</li>
   </ul>
   <ul>
-    <li><strong>Agrupamento</strong>:Agrupamento automático de objetos semelhantes em conjuntos.</li>
+    <li><strong>Clustering</strong>:Agrupamento automático de objetos semelhantes em conjuntos.</li>
   </ul>
 
   <p>Sinta-se à vontade para explorar cada pasta e executar os exemplos de código.</p>
