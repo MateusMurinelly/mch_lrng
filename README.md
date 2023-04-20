@@ -20,7 +20,7 @@
 
   <h2>Como usar este repositório?</h2>
 
-  <p>Este repositório contém exemplos de código para diferentes tarefas de aprendizado de máquina usando a biblioteca Scikit-learn. Cada pasta contém um exemplo diferente.</p>
+  <p>Este repositório contém exemplos de código para diferentes tarefas de aprendizado de máquina usando a biblioteca Scikit-learn.</p>
 
   <ul>
     <li><strong>Regressão</strong>:Prevendo um atributo de valor contínuo associado a um objeto.</li>
