@@ -23,7 +23,10 @@
   <p>Este repositório contém exemplos de código para diferentes tarefas de aprendizado de máquina usando a biblioteca Scikit-learn. Cada pasta contém um exemplo diferente.</p>
 
   <ul>
-    <li><strong>preprocessing</strong>: exemplos de pré-processamento de dados usando funções como escalonamento de recursos, codificação one-hot e normalização.</li>
+    <li><strong>Regressão</strong>:Prevendo um atributo de valor contínuo associado a um objeto.</li>
+  </ul>
+  <ul>
+    <li><strong>Agrupamento</strong>:Agrupamento automático de objetos semelhantes em conjuntos.</li>
   </ul>
 
   <p>Sinta-se à vontade para explorar cada pasta e executar os exemplos de código.</p>
