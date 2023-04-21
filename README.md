@@ -33,8 +33,7 @@
 
   <h2>Contribuindo</h2>
 
-  <p>Se gostou e quiser colaborar com meu conhecimento, sinta-se à vontade para abrir um pull request. Seu contributo é bem-vindo!</p>
-
+  <p>Se você gostou indique para um amigo, se não gostou😞 indique para um inimigo e também sinta-se à vontade para abrir um pull request. Sua contribuição é bem-vinda!</p>
   <h2>Licença</h2>
 
     Este repositório está licenciado sob a licença MIT. Clique no botão abaixo para obter mais informações:
